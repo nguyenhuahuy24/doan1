@@ -1,0 +1,60 @@
+D:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\bin\Debug\QuanLyHottel.exe.config
+D:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\bin\Debug\QuanLyHottel.exe
+D:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\bin\Debug\QuanLyHottel.pdb
+D:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.csprojAssemblyReference.cache
+D:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.Form1.resources
+D:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.Nhân_Sự.resources
+D:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.Properties.Resources.resources
+D:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.csproj.GenerateResource.cache
+D:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.csproj.CoreCompileInputs.cache
+D:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.exe
+D:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.pdb
+D:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.Quan_ly.resources
+D:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.Quan_Ly_Phong.resources
+D:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.Them_Thanh_Vien_Moi.resources
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.csprojAssemblyReference.cache
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.Form1.resources
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.Properties.Resources.resources
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.Quan_ly.resources
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.csproj.GenerateResource.cache
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.csproj.CoreCompileInputs.cache
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.exe
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.pdb
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\bin\Debug\QuanLyHottel.exe.config
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\bin\Debug\QuanLyHottel.exe
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\bin\Debug\QuanLyHottel.pdb
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.DatPhong.resources
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.LaoCong.resources
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.NhanVienLeTan.resources
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.BaoCao.resources
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.TraPhong.resources
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.TTKhachHang.resources
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.LeTan.resources
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.ThongTinPhong.resources
+E:\Lập Trình Windown\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.NhanVienLaoCong.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\bin\Debug\QuanLyHottel.exe.config
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\bin\Debug\QuanLyHottel.exe
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\bin\Debug\QuanLyHottel.pdb
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.csprojAssemblyReference.cache
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.BaoCao.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.DatPhong.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.Form1.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.HoaDon.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.LaoCong.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.LeTan.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.NhanVienLaoCong.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.Properties.Resources.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.QuanLyPhong.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.Quan_ly.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.NhanVienLeTan.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.RegisterQL.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.ThongTinPhong.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.ThuNhap.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.TrPhong.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.TTKhachHang.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.csproj.GenerateResource.cache
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.exe
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.pdb
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.BaoCaoThang.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.LuongNV.resources
+E:\doan1\Đồ Án\QuanLyHottel\QuanLyHottel\obj\Debug\QuanLyHottel.QuanLyLogin.resources
